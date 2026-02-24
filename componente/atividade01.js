@@ -10,4 +10,25 @@ const segundoNumero = 2;
 
 const operacao = meuNumero + segundoNumero;
 
-console.log (operacao)
+console.log (operacao);
+/*/ os pontos flutuantes são numeros com virgula /*/
+const numeroDecimal = 5.6
+const pontoFlutuanteSemZero = 9.99
+const novaOperacao = numeroDecimal/pontoFlutuanteSemZero;
+const colegio = "mario Braga"
+console.log(colegio * primeiroNumero)
+/*/ o Nam aparece quando você tenta fazer uma opeção meteática com uma string/*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
